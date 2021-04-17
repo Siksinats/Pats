@@ -1,0 +1,36 @@
+@mixin flex($direction, $justify, $align, $wrap) {
+    display: flex;
+    flex-direction: $direction;
+    justify-content: $justify;
+    align-items: $align;
+    flex-wrap: $wrap;
+}
+
+@mixin button1() {
+    border:none;
+    background-color: $main-color;
+    color:$secondary-color;
+    &:hover {
+        cursor: pointer;
+        background-color: $secondary-color;
+        color: $main-color;
+    }
+}
+@mixin button2() {
+    border:none;
+    background-color: $main-color;
+    color:$secondary-color;
+    &:hover {
+        cursor: pointer;
+        background-color: $main-color;
+        color: $highlight;
+    }
+}
+
+@mixin darkenedBackground($imagePath){
+ background-image: url($imagePath);
+ background-color: rgba(0, 0, 0, 0.55);
+ background-blend-mode: overlay;
+ background-position: center;
+ background-size: cover;
+}

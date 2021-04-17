@@ -1,0 +1,11 @@
+@import"../Styles/mixins";
+@import"../Styles/variables";
+
+header{
+    height:$nav-height;
+    width: 100%;
+    margin:0px;
+    position: fixed;
+    top:0px;
+    left: 0px;
+  }

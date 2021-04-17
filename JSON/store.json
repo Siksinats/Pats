@@ -1,0 +1,264 @@
+{
+    "store": [
+        {
+            "name": "Rogue RA-090 Dreadnaught Acoutic Guitar",
+            "pictureName": "Rogue RA-090.jpeg",
+            "price": "$89.00",
+            "description": "From Rogue comes this amazing deal in the RA-90 dreadnought acoustic guitar. The Rogue guitar is an ideal instrument for the beginner, or young musician. The body depth and width bring out balanced tone and plenty of projection to be heard from across the room. This ultra-affordable dreadnought acoustic guitar features a whitewood body, which brings out lots of mid-range punch. The nato neck adds sustain without losing any strength in tone. The painted maple bridge and fingerboard add clarity to each note, and a striking look to the front of the guitar. The RA-090's C-shape neck, 1-2/3\" nut width, and 16\" radius help with intricate fretboard movements when running up and down the 20 frets. The RA-90 also features nickel hardware and covered tuners. This Rogue acoustic guitar will certainly get the job done, at a price that anybody can afford.",
+            "dept": "Guitars"
+        },
+        {
+            "name": "Ernie Ball Regular Slinky 2221 (10-46) Nickel Wound Electric Guitar Strings",
+            "pictureName": "Ernie Ball Strings.jpg",
+            "price": "$5.49",
+            "description": "",
+            "dept": "Guitar Accessories"
+        },
+        {
+            "name": "Fender Champion 20 Guitar Combo Amp",
+            "pictureName": "Fender Champion 20.jpg",
+            "price": "$129.99",
+            "description": "",
+            "dept": "Amplifiers"
+        },
+        {
+            "name": "Vic Firth Buy 3 Pairs of Black Drum Sticks",
+            "pictureName": "Vic Firth Sticks.jpg",
+            "price": "$29.99",
+            "description": "",
+            "dept": "Drum Accessories"
+        },
+        {
+            "name": "Numark Scratch 2-Channel DJ Mixer for Serato DJ Pro",
+            "pictureName": "Numark 2-Channel DJ Mixer.jpg",
+            "price": "$499.00",
+            "description": "",
+            "dept": "Dj Equipment"
+        },
+        {
+            "name": "Fender Professional Series Straight to Straight Instrument Cable",
+            "pictureName": "Fender Pro Straight Instrument Cable.jpg",
+            "price": "$16.99",
+            "description":"",
+            "dept": "Cables And Electronics"
+        },
+
+        {
+            "name": "Rogue Starter Acoustic Guitar",
+            "pictureName": "Rogue Starter Acoustic Guitar.jpg",
+            "price": "$79.99",
+            "description":"The small-bodied Rogue Starter Acoustic Guitar is an amazing deal for a starter guitar. Its smaller profile (7/8\" scale) makes it very playable for kids or aspiring guitarists with smaller body frames and hands. It has a maple neck and select hardwood fretboard which produce an exquisite tone.",
+            "dept": "Guitars"
+        },
+
+        {
+            "name": "Fender Player Stratocaster Maple Fingerboard Electric Guitar",
+            "pictureName": "Fender Player Stratocaster Maple Fingerboard Electric Guitar.jpg",
+            "price": "$749.99",
+            "description":"Over the decades, players have been continually inspired by the sound of a Strat. From the clarity of the high end, through the gut punch of the mids and the solid lows, it's a sound that's helped define what an electric guitar should be—versatile enough for any style and broad enough for any player to find an individual voice. This Player Series Stratocaster puts all of the classic features of the Strat at your fingertips while adding a modern edge, including a modern neck profile, medium-jumbo frets and a freshly redesigned 2-point fulcrum vibrato bridge. With a beautiful gloss finish over a solid alder body, a 22-fret pau ferro fingerboard with a contemporary 9.5\" radius for easy bending, the Player Series Stratocaster is primed and ready to carry you along your musical voyage.",
+            "dept": "Guitars"
+        },
+
+        {
+            "name": "Gibson Les Paul Studio Electric Guitar",
+            "pictureName": "Gibson Les Paul Studio Electric Guitar.jpg",
+            "price": "$1,499.00",
+            "description":"The Les Paul Studio embodies the essential Les Paul features with enhancements for playability and tonal versatility. The rosewood fingerboard and slim taper mahogany neck provide effortless playability and comfort. The 490R and 498T pickups provide tight, high-output humbucking performance and the two push-pull pots offer additional coil-tapping options.",
+            "dept": "Guitars"
+        },
+
+        {
+            "name": "Takamine GD-30CE 12-String Acoustic-Electric Guitar",
+            "pictureName": "Takamine GD-30CE 12-String Acoustic-Electric Guitar.jpg",
+            "price": "$549.99",
+            "description":"This special edition GD30CE-12 dreadnought is a stage-worthy 12-string acoustic-electric guitar with a solid-top construction, soft Venetian-style cutaway, superior-sounding Takamine electronics system and an exclusive Wine Red finish. This gorgeous performance-ready model is crafted with a solid spruce top paired with a mahogany body that combine for a rich, resonant sound. The GD30CE-12 also features a mahogany neck with a 12\"-radius ovangkol fingerboard for great feel and playability. The onboard Takamine TP-4TD preamp system makes it easy to find and keep your tone with a built-in tuner and 3-band EQ with gain controls for excellent amplified performance and versatility.",
+            "dept": "Guitars"
+        },
+
+        {
+            "name": "D'Angelico Premier Series EXL-1 Hollowbody Electric Guitar with Stairstep Tailpiece",
+            "pictureName": "DAngelico Premier Series EXL-1 Hollowbody Electric Guitar with Stairstep Tailpiece.jpg",
+            "price": "$749.99",
+            "description":"D’Angelico's flagship archtop returns in the all-new Premier Series. Crafted from John D’Angelico’s original design, the Premier EXL-1's balanced, organic tone recalls the sound of a classic New York jazz box. Couple that with signature D'Angelico features in the Stairstep tailpiece, Skyscraper truss rod cover, and iconic headstock, the EXL-1 embodies elegance. Its single floating mini-humbucker highlights its naturally punchy mids and warm acoustic edge. Designed for jazz players worldwide, the Premier EXL-1 is a staple.",
+            "dept": "Guitars"
+        },
+
+        {
+            "name": "Pioneer DDJ-XP2 DJ Controller for rekordbox dj and Serato DJ Pro",
+            "pictureName": "Pioneer DDJ-XP2 DJ Controller for rekordbox dj and Serato DJ Pro.jpg",
+            "price": "$299.00",
+            "description":"Raise your game with the DDJ-XP2. Whether you use rekordbox dj or Serato DJ Pro, you can get the most from the new features in the latest versions of both DJ applications – released today – with this upgraded DJ controller. The DDJ-XP2 adds to the functionality of the popular DDJ-XP1 but retains the solid build quality and intuitive layout of the original unit. Let your fingers fly with 32 robust, multicolored Performance Pads (16 on each deck) and enjoy lightning-fast responses. Thanks to its sturdy construction, with a non-slip rubber surround, the DDJ-XP2 allows you to finger drum as hard as you like. Get creative with tactile control of the Key Shift and Key Sync features in either of the compatible applications and dynamically apply your chosen effect by running your finger along the Slide FX touch strips.",
+            "dept": "Dj Equipment"
+        },
+
+        {
+            "name": "Hercules DJ DJControl Starlight Controller for Serato DJ Lite",
+            "pictureName": "Hercules DJ DJControl Starlight Controller for Serato DJ Lite.jpg",
+            "price": "$89.99",
+            "description":"The Hercules DJControl Starlight is an ultra-compact, full-featured DJ controller. It blends all the features needed to mix and scratch with Serato DJ Lite software. With its built-in audio interface, the DJControl Starlight offers pre-listening in the headphones so you can then play your mix on speakers. This makes the DJControl Starlight perfect for learning or creating new mixes. Despite its small size, the DJControl Starlight delivers features you’d expect to find on a larger professional controller. In addition to tempo sliders, jog wheels and sync buttons, the DJControl offers bass EQ/filter knobs on each channel. The dual jog wheels are touch-sensitive, so you can scratch and back-cue like a pro.",
+            "dept": "Dj Equipment"
+        },
+
+        {
+            "name": "Denon DJ Prime 4 Professional 4-Channel DJ Controller",
+            "pictureName": "Denon DJ Prime 4 Professional 4-Channel DJ Controller.jpg",
+            "price": "$1,899.00",
+            "description":"The Denon Prime 4 is a standalone DJ controller with a large, 10” HD touchscreen interface. The Prime 4 all-in-one DJ controller lets you leave your laptop at home. Its powerful multicore processor analyzes your music files internally. The Denon Prime 4 professional controller is also designed to accept a 2.5” SATA hard drive. This allows DJs to expand their setup and store their music on the Prime 4 without the need for external USB or SD media storage.",
+            "dept": "Dj Equipment"
+        },
+
+        {
+            "name": "Pioneer PLX-1000 Professional Turntable",
+            "pictureName": "Pioneer PLX-1000 Professional Turntable.jpg",
+            "price": "$699.00",
+            "description":"The DJ-quality PLX-1000 direct-drive analog turntable is designed for DJs who enjoy the classic look, feel and performance of vinyl for music playback. The PLX-1000 features a high-torque direct-drive mechanism and exceptional audio playback quality. Modern digital DJs will appreciate the compatibility with current Digital Vinyl System while vinyl enthusiasts will appreciate the tried-and-true design and familiar layout. Everyone will appreciate its proven performance and professional build quality that stands up to the most demanding conditions.",
+            "dept": "Dj Equipment"
+        },
+
+        {
+            "name": "Marshall CODE 50W 1x12 Guitar Combo Amp",
+            "pictureName": "Marshall CODE 50W 1x12 Guitar Combo Amp.jpg",
+            "price": "$299.99",
+            "description":"The Marshall CODE 50W 1x12 combo combines the Marshall legacy with state-of-the-art technology, culminating in a potent little amp that taps into all the tones you crave. The range offers a choice of digital amp models, power amps, cabinet simulations, FX and more allowing you to dial in every tonal possibility you need. Various choices of glistening cleans, vintage crunches and modern high gain options can be mixed and matched with classic Marshall 100W or British Class A power stage for example, and then run through a choice of various 1x12, 2x12 or 4x12 simulations. Add from a selection of 24 FX and you have all you need in one complete setup.",
+            "dept": "Amplifiers"
+        },
+
+        {
+            "name": "Marshall DSL40CR 40W 1x12 Tube Guitar Combo Amp",
+            "pictureName": "Marshall DSL40CR 40W 1x12 Tube Guitar Combo.jpg",
+            "price": "$749.99",
+            "description":"The updated Marshall DSL series has arrived! These DSL amps are laden with Marshall tone, features and functionality for the novice, as well as pros performing on the world’s biggest stages. The DSL series includes the following new features: Adjustable Power Output, EQ Refinements, Emulated Output, Reverb, Resonance Master Volume",
+            "dept": "Amplifiers"
+        },
+        {
+            "name": "Fishman Loudbox Artist Bluetooth",
+            "pictureName": "Fishman Loudbox Artist Bluetooth.jpg",
+            "price": "$649.95",
+            "description":"The Loudbox Artist is designed to faithfully reproduce the sound of acoustic instruments and a diverse assortment of vocal or recorded accompaniments. With the addition of Bluetooth wireless connectivity, you can now easily and neatly add backing tracks or other accompaniment to your performances, jams, and practice sessions.",
+            "dept": "Amplifiers"
+        },
+        {
+            "name": "Markbass CMD 102P 300/500W 2x10 Tilt-Back Bass Combo Amp",
+            "pictureName": "Markbass CMD 102P 300_500W 2x10 Tilt-Back Bass Combo Amp.jpg",
+            "price": "$1,199.99",
+            "description":"The Markbass CMD 102P is a tilt-back bass combo amplifier that has a built-in Little Mark II solid state preamp to give you more power. To help shape your sound, the CMD 102P bass amp gives you a 4-band EQ, as well as VLE (Vintage Loudspeaker Emulator) and VPF (Variable Pre-shape Filter) filters for control. The Markbass CMD 102P amp's I/O includes an input that can handle both passive and active basses, and extra XLR balanced input for double bass pickups, Neutrik Speakon Combo out jacks for use with 1/4\" or Speakon speaker cables, a tuner out jack for sending unbalanced signals to a tuner, amp, or other recording equipment, and Send and Return Effect jacks to ensure your main signal continues even if something dies in your effects chain. This versatile bass combo has an angled cabinet so that you can use it as a floor model or in the more traditional vertical position. Either way, you're going to get a warm, natural sound from the 2 Markbass custom 10\" speakers and the piezo tweeter. And if you add an external cab via the outputs, the CMD 102P combo amp will give you enough sound to fill a large venue with headroom to spare.",
+            "dept": "Amplifier"
+        },
+        {
+            "name": "Acoustic A20 20W Acoustic Guitar Amplifier",
+            "pictureName": "Acoustic A20 20W Acoustic Guitar Amplifier.jpg",
+            "price": "$179.99",
+            "description":"The Acoustic A20 instrument amp is designed to provide authentic, pristine tone for both acoustic instruments and vocal accompaniment. It is the perfect compact solution for today's acoustic-electric musician. Two combo inputs with independent level controls allow for instrument or microphone connection and 20 watts of power drives the studio-monitor style speaker for amazing sound. The digital reverb and chorus lets you dial-in your personalized sound, while the anti-feedback filter eliminates unwanted feedback with ease. A full-feature direct out provides the perfect interface for any external PA system. The monitor style cabinet provides excellent live sound monitoring. Make your wood sound good with the A20 from Acoustic.",
+            "dept": "Amplifiers"
+        },
+        {
+            "name": "Markbass Little Mark Tube 800 Bass Amp Head",
+            "pictureName": "Markbass Little Mark Tube 800 Bass Amp Head.jpg",
+            "price": "$699.99",
+            "description":"The Markbass Little Mark Tube 800 bass amp head solves the \"tube or solid state\" dilemma. But it goes a step further by addressing that other perennial concern, \"Will I have enough power?\" The 800 watts from this powerful bass amp will satisfy any thirst for power, and the two bendable preamps give you the warmth and richness of a tube preamp, the clean attack of a solid state preamp, or a mix of both. The Markbass head features a mix control for mixing between solid state and tube. The result offers a range of sounds, from the crisp sound in the solid state, to a full, heavy tube sound in the tube state, as well as anything in between. On the front panel there are two inputs with separate gain controls: one 1/4\" jack, and one combo jack that accepts either an XLR or 1/4\". The Vintage Loudspeaker Emulator (VLE) and Variable Preshape Filter (VPF) allow access to a wide array of timbres, from classic tones to modern hi-fi sound. The Little Mark Tube 800's phantom power switch accompanies the XLR input, for using a microphone on a double bass. Mute control is as simple as a push and a pull on the master volume switch. Additional features include four bands of equalization, line out control, and pre-post EQ switch for the XLR out (on the rear panel). Markbass Little Mark amps and combos are manufactured to be sold and used in the country of purchase, and they are factory preset to that country's voltage. Due to homologation issues, the voltage may not be changed. Rack ears not included. The head features a single 6205 miniature tube.",
+            "dept": "Amplifiers"
+        },
+
+        {
+            "name": "Musician's Gear Electric, Acoustic and Bass Guitar Stand",
+            "pictureName": "Stand.jpg",
+            "price": "$12.99",
+            "description":"Made to exacting specs with soft black neoprene rubber tubing to protect your guitar. Folds up for easy transport. Not for nitrocellulose-finish guitars.",
+            "dept": "Guitar Accessories"
+        },
+        {
+            "name": "Fender Strat/Tele Hardshell Case",
+            "pictureName": "Fender Strat_Tele Hardshell Case.jpg",
+            "price": "$169.99",
+            "description":"The Fender Strat/Tele Hardshell Case gives your guitar a rugged Tolex cover, made in the traditional shape with locking latch, protective vinyl ends, large accessory compartment, padded poodle plush interior, and genuine Fender Logo. Get the genuine Fender Hardshell Case that fits Strat and Tele guitars.",
+            "dept": "Guitar Accessories"
+        },
+        {
+            "name": "Ernie Ball Jacquard Guitar Strap",
+            "pictureName": "Ernie Ball Jacquard Guitar Strap.jpg",
+            "price": "$24.99",
+            "description":"The world's number one Polypro guitar strap is now available in nine stylish designs. Each features embroidered leather ends with durable, yet comfortable polypropylene webbing. Choose the color that's right for you.",
+            "dept": "Guitar Accessories"
+        },
+
+        {
+            "name": "Fender 351 Premium Celluloid Guitar Picks (12-Pack)",
+            "pictureName": "Fender 351 Premium Celluloid Guitar Picks (12-Pack).jpg",
+            "price": "$5.99",
+            "description":"Often called the Fender pick, the 351 shape is the pick most associated with Fender. A wider body and a rounded tip have made this pick a favorite with players of every style.",
+            "dept": "Guitar Accessories"
+        },
+        
+        {
+            "name": "Mapex Round Top Lightweight Drum Throne",
+            "pictureName": "Mapex Round Top Lightweight Drum Throne.jpg",
+            "price": "$49.95",
+            "description":"This Round Top Lightweight throne from Mapex offers a basic and solid construction will keep young drummers happy until their ready to step-up their full kit. Its smaller cushion also makes it portable enough for any drummer (or even keyboard player) looking to stow it in their gear bag for grab-and-go gigs.",
+            "dept": "Drum Accessories"
+        },
+
+        {
+            "name": "Remo Muff L Ring Control  Single 16 In",
+            "pictureName": "Remo Muff L Ring Control  Single 16 In.jpg",
+            "price": "$13.86",
+            "description":"The plastic O-ring tray, when used by itself, provides moderate tone control and partial muffling.",
+            "dept": "Drum Accessories"
+        },
+
+        {
+            "name": "Drumeo P4 Practice Pad",
+            "pictureName": "Drumeo P4 Practice Pad.jpg",
+            "price": "$59.00",
+            "description":"The Drumeo P4 Practice Pad is designed by world renowned drummer and educator, Pat Petrillo. It's the only practice pad in the market with four different playing surfaces that provide unique feels and responses, on three elevated levels to simulate actual drum-set movement. The large blue surface is your standard gum rubber material, which feels very similar to a snare drum. Moving up to the next level, there is a harder neoprene black surface that feels more responsive than the gum rubber and is meant to emulate a tighter hi-tom. To the right, there is a white surface that is meant to feel more like a floor tom, or a less responsive drum (and the quietest surface for playing at night). Finally, the top level features a very hard surface which emulates a ride cymbal, or a harder kevlar surface snare drum for those who play in drumline.",
+            "dept": "Drum Accessories"
+        },
+
+        {
+            "name": "DW 9000 Series Double Bass Drum Pedal",
+            "pictureName": "DW 9000 Series Double Bass Drum Pedal.jpg",
+            "price": "$699.99",
+            "description":"The flagship of the DW pedal line-up, the DW 9000 Double Pedal features multiple patented innovations such as a free-floating rotor-drive system, rotating swivel springs and infinitely adjustable cams allowing a more direct transfer of energy that optimizes the stroke for more power and precision. The speed and fluidity of 9000 series pedals is due to a multi-bearing system that reduces friction and improves feel. The Infinite Adjustable Cams featured on DW 9000 Series Pedals allow the pedal to be easily set from Accelerator to Turbo Drive or anywhere in between. A patented Floating Swivel Spring system increases efficiency on the down stroke and return stroke, while a state-of-the-art Ball Bearing Hinges design deliver fluid footboard action. The pedal is chain-driven, but to cater to preferences, 9000 Series Bass Drum Pedals also includes Nylon Straps for easy conversion.",
+            "dept": "Drum Accessories"
+        },
+
+        {
+            "name": "Road Runner Drum Rug With Weighted Corners",
+            "pictureName": "Road Runner Drum Rug With Weighted Corners.jpg",
+            "price": "$69.99",
+            "description":"The Road Runner Premium Drum Rug provides exceptional stability for your drum kit, keeping it exactly where you want it. Our commercial-grade, mid-pile carpet eliminates floor damage from drum spurs and hardware, while the weighted corners keeps the rug flat and solidly in place. Its rubberized backing provides superior grip no matter what type of floor surface. And when you’re done, a convenient, wrap-around strap allows you to roll up the Road Runner Premium Drum Rug for easy transport and storage.",
+            "dept": "Drum Accessories"
+        },
+
+        {
+            "name": "Musician's Gear Stage Snake  24 x 4 100 ft.",
+            "pictureName": "Musicians Gear Stage Snake.jpg",
+            "price": "$349.99",
+            "description":"Snake for bands on a budget. Great pricing here on four-send snakes with a variety of configurations. The four returns are XLR, with 8-, 12-, 16- or 24-channel input configurations. Choose the input scheme and the snake length from the dropdown menu. Available in 50' or 100' lengths. Each input is labeled and color-coded. Returns are coded alphabetically (A, B, C and D). These affordable snakes are also great for fixed installation. A durable, heavy-gauge steel box protects all of the XLR connecters.",
+            "dept": "Cables And Electronics"
+        },
+
+        {
+            "name": "Musician's Gear Lo-Z XLR Microphone Cable  30 ft",
+            "pictureName": "Musicians Gear Lo-Z XLR Microphone Cable  30 ft.jpg",
+            "price": "$18.99",
+            "description":"Musician's Gear mic cables are equipped with male XLR to female XLR connectors and are flexible, durable, and finished in black. Select length from drop-down menu.",
+            "dept": "Cables And Electronics"
+        },
+
+        {
+            "name": "Evidence Audio SIS/Monorail Solderless Patch Cable Kit 5 ft.",
+            "pictureName": "Evidence Audio SIS_Monorail Solderless Patch Cable Kit 5 ft.jpg",
+            "price": "$78.99",
+            "description":"8 SIS Solderless Phone plugs and 5 feet of Monorail patch cable.",
+            "dept": "Cables And Electronics"
+        },
+
+        {
+            "name": "Fender Professional Series Straight to Straight Instrument Cable  18.6 ft.",
+            "pictureName": "Fender Professional Series Straight to Straight Instrument Cable  18.6 ft.jpg",
+            "price": "$39.99",
+            "description":"Straight on both sides, common and popular cable. Road-reliable and flexible, Fender Professional Series cables boast a thick gauge with high-quality components that transparently retain your tone without getting in the way. Sporting quiet and resilient spiral shielding, these cables are engineered to avoid twisting, kinking and any \"physical memory.\" On stage or in the studio, plug in and play with creative confidence and peace of mind.",
+            "dept": "Cables And Electronics"
+        }
+    ]
+}
